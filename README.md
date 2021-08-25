@@ -1,7 +1,7 @@
 
 <h2>Hey there! I'm Sogand</h2>
 
-###👩🏻‍💻 &nbsp;About Me
+👩🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;In my free time, watch movie or series, traveling (maybe walking in nature), music are my hobbies.\
