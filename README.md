@@ -5,7 +5,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;In my free time, watch movie or series, traveling (maybe walking in nature), music are my hobbies.\
-✉️ &nbsp;You can shoot me an email at sogandsaleh.dev@gmail.com! and I'll response as soon as possible. \
+✉️ &nbsp;You can send me an email at sogandsaleh.dev@gmail.com! and I'll response as soon as possible. \
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/sogand-saleh/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
